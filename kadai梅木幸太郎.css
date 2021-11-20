@@ -1,5 +1,7 @@
 .a{
 text-align:center;
+font-size: 60px;
+color: hotpink;
 }
 .b{
 font-weight:300;
@@ -9,17 +11,17 @@ margin:10px;
 padding:10px;
 border-width:10px;
 border-style:dotted;
+color:hotpink;
 }
 .c{
 background-image:url("https://www.pakutaso.com/shared/img/thumb/PPW_utatanewosuruneko.jpg");
-background-repeat:no-repeat;
 background-attachment:fixed;
 background-size:cover;
 background-position:center;
 margin:0;
 }
 .umeki{
-background-color:white;
+    background-color: white;
 }
 .d{
 z-index:1;

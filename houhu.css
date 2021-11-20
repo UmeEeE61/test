@@ -1,0 +1,24 @@
+body{
+    background-image:url(yuki.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    text-align: center;
+}
+.a{
+    font-size: 35px;
+}
+.b{
+    text-align: center;
+    font-size: 350%;
+    text-decoration: underline;
+}
+h1 {
+    margin-top: 40;
+}
+.top-container {
+    background: rgb(249, 249, 252);
+}
+.main-container {
+    max-width: 1024px;
+    margin: auto;
